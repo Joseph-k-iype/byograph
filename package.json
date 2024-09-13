@@ -1,0 +1,23 @@
+{
+  "name": "byograph",
+  "version": "1.12.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "format": "prettier --write src/"
+  },
+  "dependencies": {
+    "jspdf": "^2.5.1",
+    "svg2pdf.js": "^2.2.3",
+    "yfiles": "/home/joseph/Downloads/yFiles-for-HTML-Complete-2.6.0.4-Evaluation/yFiles-for-HTML-Complete-2.6.0.4-Evaluation/lib-dev/yfiles-26.0.4+eval-dev.tgz"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.4",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.8",
+    "vite-plugin-node-polyfills": "^0.19.0"
+  }
+}
