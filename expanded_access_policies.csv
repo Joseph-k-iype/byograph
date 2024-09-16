@@ -1,0 +1,11 @@
+Policy_ID,Policy_Name,Asset_ID,User_Group,Access_Type,Compliance_Requirement
+P1,Read Only,A1,Analysts,Read,GDPR
+P2,Read/Write,A2,Finance Team,Read/Write,GDPR
+P3,Restricted,A3,Loan Officers,Restricted,CCPA
+P4,Read Only,A4,Analytics Team,Read,CCPA
+P5,Full Access,A5,HR Team,Full,GDPR
+P6,Restricted,A6,Account Ops,Restricted,CCPA
+P7,Full Access,A7,Product Managers,Full,CCPA
+P8,Read Only,A8,Branch IT,Read,None
+P9,Read/Write,A9,Audit Team,Read/Write,None
+P10,Restricted,A10,Banking IT,Restricted,None

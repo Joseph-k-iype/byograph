@@ -1,0 +1,11 @@
+Asset_ID,Asset_Name,Type,Location,Creation_Date,Last_Update_Date,Owner_ID,Quality_Score
+A1,Customer Data,Customer,Database 1,2023-01-15,2023-09-01,O1,95
+A2,Transaction Data,Financial,Database 1,2022-11-10,2023-08-20,O2,90
+A3,Loan Data,Loan,Database 2,2023-03-05,2023-08-25,O3,85
+A4,Credit Score Data,Financial,Database 3,2023-02-14,2023-09-05,O4,88
+A5,Employee Data,HR,Database 4,2022-12-20,2023-07-30,O5,92
+A6,Account Data,Financial,Database 5,2023-05-10,2023-09-01,O6,89
+A7,Mortgage Data,Loan,Database 2,2023-04-08,2023-08-30,O7,86
+A8,Product Data,Product,Database 6,2022-09-30,2023-07-01,O8,91
+A9,Branch Data,Branch,Database 7,2023-06-15,2023-06-20,O9,87
+A10,Audit Logs,Log,Database 8,2022-12-01,2023-09-10,O10,93

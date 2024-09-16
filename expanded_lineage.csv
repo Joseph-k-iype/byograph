@@ -1,0 +1,11 @@
+Transformation_ID,Source_Asset_ID,Target_Asset_ID,Transformation_Type,Responsible_Team
+T1,A1,A2,ETL,Data Ops
+T2,A2,A3,Aggregation,Loan Ops
+T3,A3,A4,Data Masking,Data Governance
+T4,A4,A5,ETL,Analytics
+T5,A5,A6,Data Masking,HR IT
+T6,A6,A7,ETL,Account Ops
+T7,A7,A8,Aggregation,Product IT
+T8,A8,A9,Data Masking,Branch IT
+T9,A9,A10,ETL,Audit Team
+T10,A10,A1,Aggregation,Banking IT

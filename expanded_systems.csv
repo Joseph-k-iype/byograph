@@ -1,0 +1,9 @@
+Database_ID,System_Name,Size_GB,Responsible_Team
+DB1,Core Banking,500,Banking IT
+DB2,Loan Management,300,Loan Operations
+DB3,Credit Analytics,200,Analytics Team
+DB4,HR Systems,100,HR IT
+DB5,Account Management,150,Account Ops
+DB6,Product Management,250,Product IT
+DB7,Branch Operations,180,Branch IT
+DB8,Audit System,220,Audit Team

@@ -1,0 +1,11 @@
+Field_ID,Field_Name,Data_Type,Sensitivity_Level,Associated_Regulation
+F1,Customer Name,String,PII,GDPR
+F2,Transaction Amount,Decimal,Financial,GDPR
+F3,Loan Amount,Decimal,Financial,CCPA
+F4,Credit Score,Integer,Financial,CCPA
+F5,Employee ID,String,PII,GDPR
+F6,Account Balance,Decimal,Financial,CCPA
+F7,Mortgage Value,Decimal,Financial,CCPA
+F8,Product Type,String,Product,None
+F9,Branch Location,String,Operational,None
+F10,Log Entry,String,Log,None
